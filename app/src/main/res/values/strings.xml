@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login and Register Interface</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="forgot">Forgot?</string>
+    <string name="register">Register</string>
+</resources>

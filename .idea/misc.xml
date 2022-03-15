@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Saves/LoginandRegisterInterface/app/src/main/res/drawable/sp_rectangle_root.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android Saves/LoginandRegisterInterface/app/src/main/res/layout-v21/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android Saves/LoginandRegisterInterface/app/src/main/res/layout/activity_main.xml" value="1.0" />
+        <entry key="..\:/Android Saves/LoginandRegisterInterface/app/src/main/res/layout/layout_utama.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android Saves/LoginandRegisterInterface/app/src/main/res/layout/utama.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
